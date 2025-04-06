@@ -1,0 +1,99 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs and editors
+.idea/
+.vscode/
+.spyderproject
+.spyproject
+.ropeproject
+
+# Build artifacts and distribution
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+
+# Logs and caches
+*.log
+*.cache
+pip-log.txt
+pip-delete-this-directory.txt
+.coverage
+.coverage.*
+.pytest_cache/
+.nox/
+.tox/
+.nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.dmypy.json
+dmypy.json
+.ruff_cache/
+.mypy_cache/
+.pyre/
+.pytype/
+cython_debug/
+
+# Notebooks and IPython
+.ipynb_checkpoints
+profile_default/
+ipython_config.py
+
+# Configuration and secrets
+local_settings.py
+.pypirc
+.pdm.toml
+.pdm-python
+.pdm-build/
+
+# Django/Flask artifacts
+db.sqlite3
+db.sqlite3-journal
+instance/
+.webassets-cache
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# Docs
+docs/_build/
+site/
+
+# Miscellaneous
+.DS_Store
+*.mo
+*.pot
+__pypackages__/
+catboost_info/
+artifacts/
+

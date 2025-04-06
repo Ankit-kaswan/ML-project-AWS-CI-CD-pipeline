@@ -1,0 +1,13 @@
+catboost
+Flask
+joblib
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+xgboost
+pathlib
+pytest
+
+-e .
